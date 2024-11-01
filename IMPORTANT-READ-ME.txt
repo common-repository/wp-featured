@@ -1,0 +1,4 @@
+You must edit the file featured_listings.php at this point to enter the path to your open realty install.
+
+// The full path from root to your OpenRealty install.
+$wpfeatures_openrealty_path = "/home/livedemo/public_html/listings/";
